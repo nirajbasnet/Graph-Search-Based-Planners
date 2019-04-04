@@ -12,10 +12,10 @@ pip3 install -r requirements.txt
 ```
 Then, run different algorithms.
 ```
-python3 Astar.py
-python3 Dijstra.py
+python3 Astar2D.py
+python3 Dijkstra.py
 ```
-Weighted A* and Dijkstra both can be run from `Astar.py` by selecting algorithm id in the program file.
+Weighted A* and Dijkstra both can be run from `Astar2D.py` by selecting algorithm id in the program file.
 
 ## Visualization
 

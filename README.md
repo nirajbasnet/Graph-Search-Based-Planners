@@ -1,7 +1,7 @@
 # Graph search based planning algorithms
 This repo contains implementation of graph search based planning algorithms.
 
-#####Algorithms :
+##### Algorithms :
 * Dijkstra
 * A*
 * Weighted A*
